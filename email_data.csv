@@ -1,0 +1,6 @@
+Subject,Has Attachments,From Address,To Address,Body Text,Spam
+"Important Meeting Update",Yes,"john.doe@company.com","jane.doe@company.com, mike.smith@anothercompany.com","This email is about a meeting...",Not Spam
+"Free Vacation Offer!",No,"unknown@promos.com","you@youremail.com","Click here to win a free vacation!",Spam
+"Re: Project Status",Yes,"sarah.lee@client.com","project.team@yourcompany.com","Just a quick update on the project...",Not Spam
+"Make Money Fast!",No,"moneymaker@scammers.com","you@youremail.com","Get rich quick with our secret method!",Spam
+"Company Picnic Reminder",No,"hr@yourcompany.com","all-staff@yourcompany.com","Reminder about the company picnic...",Not Spam
